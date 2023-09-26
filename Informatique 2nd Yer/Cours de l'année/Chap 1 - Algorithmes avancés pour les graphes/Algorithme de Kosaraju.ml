@@ -6,6 +6,7 @@
 
 (*
 Notion importante à connaitre :
+
   - L'algorithme de parcours en profondeur se fait en O(|S| + |A|).
 
   - A tout instant de l'algorithme on a un sommet v de G qui est dans 1 de ces 3 états :
